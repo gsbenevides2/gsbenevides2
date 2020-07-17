@@ -1,7 +1,7 @@
 
 # Olá
 
-Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e comfira os repositórios em destaque, eu separei meus melhores projetos para você.
+Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e confira os repositórios em destaque, eu separei meus melhores projetos para você.
 
 <details><summary>Clique e saiba mais sobre mim.</summary>
 
@@ -51,5 +51,5 @@ Pessoas que gostou muiiito na área da TI:
 ## Minhas redes sociais
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxODU1ODYsLTE0OTM1MDkwNzBdfQ==
+eyJoaXN0b3J5IjpbMTg0MjgyNzk4NSwtMTQ5MzUwOTA3MF19
 -->
