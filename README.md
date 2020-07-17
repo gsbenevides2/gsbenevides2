@@ -35,12 +35,12 @@ Já estudei diversas tecnologias, olha a lista das que eu me lembro:
 - SQL (basicão)
 - Java (Basicão)
 
-## 👱🏻‍♀️Sobre mim
+## 👨🏻Sobre mim
 Sou um menino do interior apaixonado por tecnologia e desenvolvimento de software, comecei com 15 anos, na linguagem Python porém a minha vontade era criar apps para Android, aí eu conheci o DroidScript, nele tive meu contato com o Javascript, a linguagem que hoje mora no meu coração (enquanto eu não tenho uma mulher para amar, é claro).
 Meus conhecimentos em programação começaram no YouTube vendo vídeos, de canais como Curso Em Vídeo, e lendo sites da web. Porém com 17 anos no meio de uma pandemia mundial, conclui um curso de Assistente de Desenvolvimento de Sistemas do Novotec Virtual. Nesse curso EAD tive algumas aulas de banco de dados e Java.
 Para mim o mais legal da programação é que com esses conhecimentos consigo resolver problemas comuns do meu dia a dia.
 
-## Ídolos da TI
+## ✨Ídolos da TI
 Pessoas que gostou muiiito na área da TI:
 
 - Filipe Deschamps: Cara, só tem uma palavra para definir ele: delicinha rsrsrs.
@@ -51,6 +51,6 @@ Pessoas que gostou muiiito na área da TI:
 ## Minhas redes sociais
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA1ODA4MzgsMTg0MjgyNzk4NSwtMT
-Q5MzUwOTA3MF19
+eyJoaXN0b3J5IjpbODI1MzAwNTAxLDE4NDI4Mjc5ODUsLTE0OT
+M1MDkwNzBdfQ==
 -->
