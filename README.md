@@ -3,6 +3,8 @@
 
 Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e comfira os repositórios em destaque, eu separei meus melhores projetos para você.
 
+<details><summary>Clique e veja mais</summary>
+
 ## Tecnologias trabalhas
 Já estudei diversas tecnologias, olha a lista das que eu me lembro:
 
@@ -47,7 +49,7 @@ Pessoas que gostou muiiito na área da TI:
 - Gustavo Guanabara: O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
 ## Minhas redes sociais
-
+</details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM1MDkwNzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MjA3NzQxNCwtMTQ5MzUwOTA3MF19
 -->
