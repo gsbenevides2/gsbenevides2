@@ -49,13 +49,12 @@ Pessoas que gostou muiiito na área da TI:
 - Gustavo Guanabara: O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
 ## 🛰️Minhas redes sociais
-- Facebook
-- Instagram
-- Twitter
+- [Facebook](https://facebook.com/gsbenevides2)
+- [Instagram](https://instagram.com/gsbenevides2)
+- [Twitter](https://Twitter.c
 - LinkedIn
-- 
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDU3NDY2OSwxODQyODI3OTg1LC0xND
+eyJoaXN0b3J5IjpbLTQwNTIyMDk5NSwxODQyODI3OTg1LC0xND
 kzNTA5MDcwXX0=
 -->
