@@ -44,7 +44,7 @@ Para mim o mais legal da programação é que com esses conhecimentos consigo re
 Pessoas que gostou muiiito na área da TI:
 
 - [Filipe Deschamps](https://github.com/filipedeschamps): Cara, só tem uma palavra para definir ele: delicinha rsrsrs.
-- [Diego Fernandes](https://: Um baita de um professor porreta, e vários dos meus conhecimentos de javascript devo a ele, muito obrigado.
+- [Diego Fernandes](https://github.com/diego3g): Um baita de um professor porreta, e vários dos meus conhecimentos de javascript devo a ele, muito obrigado.
 - Gabriel e Vanessa: São duas pessoas fantástica que compartilham bastante conhecimento desse mundo da programação.
 - Gustavo Guanabara: O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
@@ -55,6 +55,6 @@ Pessoas que gostou muiiito na área da TI:
 - [LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MTQ4NDE2LDc3NzA4NjAwMSwxODQyOD
-I3OTg1LC0xNDkzNTA5MDcwXX0=
+eyJoaXN0b3J5IjpbMTc5Mzk2NDg3OCw3NzcwODYwMDEsMTg0Mj
+gyNzk4NSwtMTQ5MzUwOTA3MF19
 -->
