@@ -48,9 +48,14 @@ Pessoas que gostou muiiito na área da TI:
 - Gabriel e Vanessa: São duas pessoas fantástica que compartilham bastante conhecimento desse mundo da programação.
 - Gustavo Guanabara: O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
-## Minhas redes sociais
+## 🛰️Minhas redes sociais
+- Facebook
+- Instagram
+- Twitter
+- LinkedIn
+- 
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1MzAwNTAxLDE4NDI4Mjc5ODUsLTE0OT
-M1MDkwNzBdfQ==
+eyJoaXN0b3J5IjpbMTM3NDU3NDY2OSwxODQyODI3OTg1LC0xND
+kzNTA5MDcwXX0=
 -->
