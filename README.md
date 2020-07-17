@@ -51,10 +51,10 @@ Pessoas que gostou muiiito na área da TI:
 ## 🛰️Minhas redes sociais
 - [Facebook](https://facebook.com/gsbenevides2)
 - [Instagram](https://instagram.com/gsbenevides2)
-- [Twitter](https://Twitter.c
-- LinkedIn
+- [Twitter](https://twitter.com/gsbenevides2)
+- [LinkedIn](https://linkedIn.com/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTIyMDk5NSwxODQyODI3OTg1LC0xND
-kzNTA5MDcwXX0=
+eyJoaXN0b3J5IjpbNzc3MDg2MDAxLDE4NDI4Mjc5ODUsLTE0OT
+M1MDkwNzBdfQ==
 -->
