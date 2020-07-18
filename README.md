@@ -3,6 +3,8 @@
 
 Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e confira os repositórios em destaque, eu separei meus melhores projetos para você.
 
+[twitter]!
+
 <details><summary>Clique e saiba mais sobre mim.</summary>
 
 ## 👨🏻‍💻Tecnologias trabalhas
@@ -55,7 +57,7 @@ Pessoas que gostou muiiito na área da TI:
 - [LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA1ODg0OTQsLTYxNjc5MDI1MywxNz
-kzOTY0ODc4LDc3NzA4NjAwMSwxODQyODI3OTg1LC0xNDkzNTA5
-MDcwXX0=
+eyJoaXN0b3J5IjpbMTU3NzYzMzk3MCwtMTQxMDU4ODQ5NCwtNj
+E2NzkwMjUzLDE3OTM5NjQ4NzgsNzc3MDg2MDAxLDE4NDI4Mjc5
+ODUsLTE0OTM1MDkwNzBdfQ==
 -->
