@@ -49,13 +49,13 @@ Pessoas que gostou muiiito na área da TI:
 - [Gustavo Guanabara](https://github.com/gustavoguanabara): O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
 ## 🛰️Minhas redes sociais
-[![Facebook Badge](https://img.shields.io/static/v1?label=Facebook:&message=gsbenevides2&color=3b5998&labelColor=3b5998&logo=facebook&labelColor=000000)](https://facebook.com/gsbenevides2)
-[Instagram](https://instagram.com/gsbenevides2)
+[![Facebook Badge](https://img.shields.io/static/v1?label=Facebook:&message=gsbenevides2&color=3b5998&labelColor=3b5998&logo=facebook&logoColor=ffffff)](https://facebook.com/gsbenevides2)
+[![Instagram Badge](https://img.shields.io/static/v1?label=Instagram:&message=@)](https://instagram.com/gsbenevides2)
 [![Twitter Badge](https://img.shields.io/static/v1?label=Twitter:&message=@gsbenevides2&logo=twitter&color=00acee&labelColor=00acee&logoColor=fff&style=flat-square)](https://twitter.com/gsbenevides2)
 [LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM2MzkzNTgsLTE0MTA1ODg0OTQsLT
-YxNjc5MDI1MywxNzkzOTY0ODc4LDc3NzA4NjAwMSwxODQyODI3
-OTg1LC0xNDkzNTA5MDcwXX0=
+eyJoaXN0b3J5IjpbLTE3NDM4MDc4NSwtMTQxMDU4ODQ5NCwtNj
+E2NzkwMjUzLDE3OTM5NjQ4NzgsNzc3MDg2MDAxLDE4NDI4Mjc5
+ODUsLTE0OTM1MDkwNzBdfQ==
 -->
