@@ -52,10 +52,10 @@ Pessoas que gostou muiiito na área da TI:
 [![Facebook Badge](https://img.shields.io/static/v1?label=Facebook:&message=gsbenevides2&color=3b5998&labelColor=3b5998&logo=facebook&logoColor=ffffff)](https://facebook.com/gsbenevides2)
 [![Instagram Badge](https://img.shields.io/static/v1?label=Instagram:&message=@gsbenevides2&labelColor=bc2a8d&color=bc2a8d&logo=instagram&logoColor=ffffff)](https://instagram.com/gsbenevides2)
 [![Twitter Badge](https://img.shields.io/static/v1?label=Twitter:&message=@gsbenevides2&logo=twitter&color=00acee&labelColor=00acee&logoColor=fff&style=flat-square)](https://twitter.com/gsbenevides2)
-[![Facebook Badge](https://img.shields.io/static/v1?label=LinkedIn:&message=gsbenev2&color=3b5998&labelColor=3b5998&logo=facebook&logoColor=ffffff)](https://linkedIn.com/in/gsbenevides2)
+[![Facebook Badge](https://img.shields.io/static/v1?label=LinkedIn:&message=Guilherme%20da%20Silva%20Benevides&color=3b5998&labelColor=3b5998&logo=linkedin&logoColor=ffffff)](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUwNjY5ODIsLTE0MTA1ODg0OTQsLT
+eyJoaXN0b3J5IjpbLTE0NzY1NjM0MDgsLTE0MTA1ODg0OTQsLT
 YxNjc5MDI1MywxNzkzOTY0ODc4LDc3NzA4NjAwMSwxODQyODI3
 OTg1LC0xNDkzNTA5MDcwXX0=
 -->
