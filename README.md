@@ -3,7 +3,8 @@
 
 Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e confira os repositórios em destaque, eu separei meus melhores projetos para você.
 
-![Twitter](https://img.shields.io/static/v1?label=Twitter:&message=@gsbenevides2&logo=twitter&color=00acee&labelColor=00acee&logoColor=fff&style=flat-square&link=https://twitter.com/gsbenevides2)
+
+[![Twitter](https://img.shields.io/static/v1?label=Twitter:&message=@gsbenevides2&logo=twitter&color=00acee&labelColor=00acee&logoColor=fff&style=flat-square
 
 <details><summary>Clique e saiba mais sobre mim.</summary>
 
@@ -57,7 +58,7 @@ Pessoas que gostou muiiito na área da TI:
 - [LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTkzODAzOSwtMTQxMDU4ODQ5NCwtNj
+eyJoaXN0b3J5IjpbLTM2NjE3MDU4OSwtMTQxMDU4ODQ5NCwtNj
 E2NzkwMjUzLDE3OTM5NjQ4NzgsNzc3MDg2MDAxLDE4NDI4Mjc5
 ODUsLTE0OTM1MDkwNzBdfQ==
 -->
