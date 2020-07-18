@@ -49,13 +49,13 @@ Pessoas que gostou muiiito na área da TI:
 - [Gustavo Guanabara](https://github.com/gustavoguanabara): O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
 ## 🛰️Minhas redes sociais
-- [Facebook](https://facebook.com/gsbenevides2)
-- [Instagram](https://instagram.com/gsbenevides2)
-- [](https://twitter.com/gsbenevides2)
-- [LinkedIn](https://linkedIn.com/in/gsbenevides2)
+[![Facebook Badge](https://img.shields.io/static/v1)](https://facebook.com/gsbenevides2)
+[Instagram](https://instagram.com/gsbenevides2)
+[![Twitter Badge](https://img.shields.io/static/v1?label=Twitter:&message=@gsbenevides2&logo=twitter&color=00acee&labelColor=00acee&logoColor=fff&style=flat-square)](https://twitter.com/gsbenevides2)
+[LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk1MDgyNzUsLTE0MTA1ODg0OTQsLT
-YxNjc5MDI1MywxNzkzOTY0ODc4LDc3NzA4NjAwMSwxODQyODI3
-OTg1LC0xNDkzNTA5MDcwXX0=
+eyJoaXN0b3J5IjpbNjM4OTQyNzU3LC0xNDEwNTg4NDk0LC02MT
+Y3OTAyNTMsMTc5Mzk2NDg3OCw3NzcwODYwMDEsMTg0MjgyNzk4
+NSwtMTQ5MzUwOTA3MF19
 -->
