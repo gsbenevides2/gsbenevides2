@@ -4,13 +4,13 @@
 Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Github. Nele você vai encontrar projetos de apps que eu fiz, estava fazendo ou tentei fazer rsrsrs. Espero que você goste de navegar por aqui, e confira os repositórios em destaque, eu separei meus melhores projetos para você.
 
 
-<details><summary>
+<details><summary>Clique aqui e saiba mais sobre mim</summary>
 
 ## Sumário
 - [Tecnologias trabalhadas](#tecnologias-trabalhas)
 - [Sobre mim](#sobre-mim)
 - [Ídolos da TI](#ídolos-da-ti)
-- [Minhas redes sociais](#minhas-redes-sociais)</summary>
+- [Minhas redes sociais](#minhas-redes-sociais)
 
 ## 👨🏻‍💻Tecnologias trabalhas
 Já estudei diversas tecnologias, olha a lista das que eu me lembro:
@@ -62,7 +62,7 @@ Pessoas que gostou muiiito na área da TI:
 [![Facebook Badge](https://img.shields.io/static/v1?label=LinkedIn:&message=Guilherme%20da%20Silva%20Benevides&color=0e76a8&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU1MTA2MDUsLTE0MTA1ODg0OTQsLT
-YxNjc5MDI1MywxNzkzOTY0ODc4LDc3NzA4NjAwMSwxODQyODI3
-OTg1LC0xNDkzNTA5MDcwXX0=
+eyJoaXN0b3J5IjpbMTkyMjE1OTExNywtMTQxMDU4ODQ5NCwtNj
+E2NzkwMjUzLDE3OTM5NjQ4NzgsNzc3MDg2MDAxLDE4NDI4Mjc5
+ODUsLTE0OTM1MDkwNzBdfQ==
 -->
