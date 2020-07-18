@@ -5,6 +5,9 @@ Olá tudo bem?, meu nome é Guilherme e seja bem vindo ao meu perfil aqui no Git
 
 <details><summary>Clique e saiba mais sobre mim.</summary>
 
+## Sumário
+- [Tecnologias trabalhadas](#tecnologias-trabalhadas)
+- [Sobre mim](#sobre-mim)
 
 ## 👨🏻‍💻Tecnologias trabalhas
 Já estudei diversas tecnologias, olha a lista das que eu me lembro:
@@ -56,7 +59,7 @@ Pessoas que gostou muiiito na área da TI:
 [![Facebook Badge](https://img.shields.io/static/v1?label=LinkedIn:&message=Guilherme%20da%20Silva%20Benevides&color=0e76a8&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTA4NTg0MCwtMTQxMDU4ODQ5NCwtNj
-E2NzkwMjUzLDE3OTM5NjQ4NzgsNzc3MDg2MDAxLDE4NDI4Mjc5
-ODUsLTE0OTM1MDkwNzBdfQ==
+eyJoaXN0b3J5IjpbLTUwNDc2NDU4LC0xNDEwNTg4NDk0LC02MT
+Y3OTAyNTMsMTc5Mzk2NDg3OCw3NzcwODYwMDEsMTg0MjgyNzk4
+NSwtMTQ5MzUwOTA3MF19
 -->
