@@ -45,7 +45,7 @@ Pessoas que gostou muiiito na área da TI:
 
 - [Filipe Deschamps](https://github.com/filipedeschamps): Cara, só tem uma palavra para definir ele: delicinha rsrsrs.
 - [Diego Fernandes](https://github.com/diego3g): Um baita de um professor porreta, e vários dos meus conhecimentos de javascript devo a ele, muito obrigado.
-- Gabriel e Vanessa: São duas pessoas fantástica que compartilham bastante conhecimento desse mundo da programação.
+- [Gabriel](https://github.com/gabrielfroes) e [Vanessa]: São duas pessoas fantásticas que compartilham bastante conhecimento desse mundo da programação.
 - Gustavo Guanabara: O grande mestre. Com ele aprendi um pouco sobre python pois não tive como terminar o curso GRATUITO e COMPLETO dele.
 
 ## 🛰️Minhas redes sociais
@@ -55,6 +55,6 @@ Pessoas que gostou muiiito na área da TI:
 - [LinkedIn](https://linkedIn.com/in/gsbenevides2)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mzk2NDg3OCw3NzcwODYwMDEsMTg0Mj
-gyNzk4NSwtMTQ5MzUwOTA3MF19
+eyJoaXN0b3J5IjpbLTYxNjc5MDI1MywxNzkzOTY0ODc4LDc3Nz
+A4NjAwMSwxODQyODI3OTg1LC0xNDkzNTA5MDcwXX0=
 -->
