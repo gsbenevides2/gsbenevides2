@@ -1,4 +1,4 @@
-<img width=981 height=363 src='https://raw.githubusercontent.com/gsbenevides2/gsbenevides2/master/banner.jpg'>
+<img src='https://raw.githubusercontent.com/gsbenevides2/gsbenevides2/master/banner.jpg'>
 
 # Olá👋🏻
 
